@@ -1,23 +1,23 @@
 {
   "name": "grunt-regex-replacer",
-  "description": "Adds a build id to all html templates and references",
+  "description": "Find and replace for grunt",
   "version": "0.1.0",
-  "homepage": "https://github.com/tobalsgithub/grunt-regex-replacer",
+  "homepage": "https://github.com/100health/grunt-regex-replacer",
   "author": {
     "name": "TC",
-    "email": "tobalsemail@gmail.com"
+    "email": "tc@redoxengine.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tobalsgithub/grunt-regex-replacer.git"
+    "url": "https://github.com/100health/grunt-regex-replacer.git"
   },
   "bugs": {
-    "url": "https://github.com/tobalsgithub/grunt-regex-replacer/issues"
+    "url": "https://github.com/100health/grunt-regex-replacer/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/tobalsgithub/grunt-regex-replacer/blob/master/LICENSE-MIT"
+      "url": "https://github.com/100health/grunt-regex-replacer/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
