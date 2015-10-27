@@ -1,7 +1,7 @@
 {
   "name": "grunt-regex-replacer",
   "description": "Find and replace for grunt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/100health/grunt-regex-replacer",
   "author": {
     "name": "TC",
