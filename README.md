@@ -54,7 +54,13 @@ If this is a string, each match found using `data.regex` will be replaced with `
 
 If this is a function, each match found using `data.regex` will be passed to the function. The function should return the string that will replace the match.
 
-For example, to append a string to each match, you could do the following:
+For example, to simply replace all matches with the work 'REPLACE', you could do the following:
+
+```js
+replacement: 'REPLACE'
+```
+
+Or, to append a string to each match, you could do the following:
 
 ```javascript
 replacement: function (match) {
