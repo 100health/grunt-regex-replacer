@@ -28,7 +28,6 @@ module.exports = function(grunt) {
 
     files = grunt.file.expand(this.data.src);
 
-    // Clear all buildIDs currently in files
     regexArray = this.data.regex;
 
     replacement = this.data.replacement;
